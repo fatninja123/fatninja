@@ -1,0 +1,2 @@
+# fatninja
+my first code
